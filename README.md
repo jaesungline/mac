@@ -16,3 +16,4 @@ https://torazuka.hatenablog.com/entry/20140724/smart
 
 defaults write com.apple.dock mineffect -string scale
 
+killall Dock
