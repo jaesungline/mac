@@ -17,3 +17,26 @@ https://torazuka.hatenablog.com/entry/20140724/smart
 defaults write com.apple.dock mineffect -string scale
 
 killall Dock
+
+
+# terminal application
+
+using iTerm2 is recommended
+https://www.iterm2.com/
+
+customize
+https://qiita.com/kinchiki/items/57e9391128d07819c321
+
+# bash_profile
+
+```
+# alias
+alias SB='source ~/.bash_profile'
+alias VB='vi ~/.bash_profile'
+alias f='open .'
+alias hh='history'
+
+# large history size 
+HISTSIZE=50000
+
+```
