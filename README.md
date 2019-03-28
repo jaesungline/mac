@@ -43,3 +43,16 @@ alias show='defaults write com.apple.finder AppleShowAllFiles TRUE && killall Fi
 alias hide='defaults write com.apple.finder AppleShowAllFiles FALSE && killall Finder'
 alias KA='killall Finder'
 ```
+
+# useful application
+markdown editor
+Typora
+https://typora.io/
+
+text editor
+sublime text
+https://www.sublimetext.com/
+
+
+
+
