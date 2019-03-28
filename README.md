@@ -39,4 +39,7 @@ alias hh='history'
 # large history size 
 HISTSIZE=50000
 
+alias show='defaults write com.apple.finder AppleShowAllFiles TRUE && killall Finder'
+alias hide='defaults write com.apple.finder AppleShowAllFiles FALSE && killall Finder'
+alias KA='killall Finder'
 ```
