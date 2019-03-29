@@ -53,6 +53,9 @@ text editor
 sublime text
 https://www.sublimetext.com/
 
-
+sourcetree
+https://ja.atlassian.com/software/sourcetree
+connecting with item2
+環境設定 > ターミナルで使用するアプリケーション > iTerm2
 
 
