@@ -27,6 +27,12 @@ https://www.iterm2.com/
 customize
 https://qiita.com/kinchiki/items/57e9391128d07819c321
 
+change prompt name
+```
+$ export PS1="\w$ "
+```
+https://medium.com/@ajaykarwal/edit-the-terminal-prompt-name-on-macos-4d80163be6a1
+
 # bash_profile
 
 ```
