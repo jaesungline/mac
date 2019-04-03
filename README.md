@@ -64,4 +64,5 @@ https://ja.atlassian.com/software/sourcetree
 connecting with item2
 環境設定 > ターミナルで使用するアプリケーション > iTerm2
 
-
+google keep
+https://keep.google.com/u/0/#home
